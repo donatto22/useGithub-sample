@@ -1,0 +1,25 @@
+#nav {
+    display: flex;
+    background-color: #001695;
+    padding: 1em 0;
+    justify-content: space-between;
+}
+
+#logo {
+    color: #d0d7ff;
+}
+
+#links ul li {
+    list-style-type: none;
+}
+
+#links ul li a {
+    color: #d0d7ff;
+    text-decoration: none;
+}
+
+#links ul {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
